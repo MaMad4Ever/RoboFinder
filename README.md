@@ -9,7 +9,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/yourusername/RoboFinder.git
 cd RoboFinder
-pip3 install -r requirements.txt
 ```
 Note: This script uses only Python standard libraries, so requirements.txt is empty. You don't need to install anything.
 Usage
