@@ -10,7 +10,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/RoboFinder.git
 cd RoboFinder
 ```
-Note: This script uses only Python standard libraries, so requirements.txt is empty. You don't need to install anything.
+Note: This script uses only Python standard libraries. You don't need to install anything.
 Usage
 
 ## Basic usage:
