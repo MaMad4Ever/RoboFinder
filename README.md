@@ -51,3 +51,10 @@ http://example.com/admin
 - Parses lines starting with Disallow: and extracts the paths.
 - Converts each path to a full URL using the domain.
 - Prints or saves the resulting URLs.
+
+# TODO
+- [ ] 🔎 Fetch historical `robots.txt` files from Wayback Machine
+- [ ] 🧵 Add multi-threaded requests for historical `robots.txt`
+- [ ] 🔗 Extract URLs containing parameters
+- [ ] ♻️ Keep output clean and unique
+
